@@ -1,5 +1,9 @@
 ## Hi there, Soy Alejandro 👋
 
+<p align="center">
+<a href="https://www.linkedin.com/in/alejandrojuradomagdaleno/"><img src="https://img.shields.io/badge/Alejandro%20Jurado%20Magdaleno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
+
 <!--
 **alejandrojurado28/alejandrojurado28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,8 +62,3 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/alejandrojuradomagdaleno/"><img src="https://img.shields.io/badge/Alejandro%20Jurado%20Magdaleno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
