@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras y formarme continuamente.\
 🎓 &nbsp;Graduado en el CFGS de Desarrollo de Aplicaciones Web (DAW).\
 🌱 &nbsp;Estoy en camino de aprender más sobre java y spring, tecnologías fron-end como React, Vue o Angular, AWS, etc.\
-✍️ &nbsp;En mi tiempo libre me gusta hacer deporte como ir al gimnasio o salir a andar.\
+<!-- ✍️ &nbsp;En mi tiempo libre me gusta hacer deporte como ir al gimnasio o salir a andar.\ -->
 💬 &nbsp;Siéntase libre de ponerse en contacto conmigo escribiendo a mi correo alejandrojuradomagdaleno@gmail.com.\
 📄 &nbsp;Por favor, eche un vistazo a mi Currículum Vitae...
 
