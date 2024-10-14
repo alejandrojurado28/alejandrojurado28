@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-👨‍💻 &nbsp;Full Stack Developer | 💡 Apasionado por resolver problemas con código.\
+👨‍💻 &nbsp;Full Stack Developer\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras y formarme continuamente.\
 🎓 &nbsp;Graduado en el CFGS de Desarrollo de Aplicaciones Web (DAW).\
 🌱 &nbsp;Estoy en camino de aprender más sobre java y spring, tecnologías fron-end como React, Vue o Angular, AWS, etc.\
